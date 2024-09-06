@@ -1,0 +1,33 @@
+[
+    {
+        "isSong": true,
+        "Artist": "Darragh",
+        "Title": "Balls",
+        "Genre": "French",
+        "File Path": "C:\\Users\\micha\\OneDrive\\Desktop\\School Work\\2nd Year\\Programming\\Assignment\\as1/audio_files\\copyright_free_music.mp3"
+    },
+    {
+        "isSong": false,
+        "Title": "UCC",
+        "File Path": "C:\\Users\\micha\\OneDrive\\Desktop\\School Work\\2nd Year\\Programming\\Assignment\\as1/audio_files\\Welcome_UCC.mp3"
+    },
+    {
+        "isSong": true,
+        "Artist": "Drake ",
+        "Title": "Balls to Balls ",
+        "Genre": "Rap ",
+        "File Path": "C:\\Users\\micha\\OneDrive\\Desktop\\School Work\\2nd Year\\Programming\\Assignment\\as1/audio_files\\copyright_free_music.mp3"
+    },
+    {
+        "isSong": true,
+        "Artist": "Drake ",
+        "Title": "Ball to Balls ",
+        "Genre": "Rap ",
+        "File Path": "C:\\Users\\micha\\OneDrive\\Desktop\\School Work\\2nd Year\\Programming\\Assignment\\as1/audio_files\\copyright_free_music.mp3"
+    },
+    {
+        "isSong": false,
+        "Title": "Hi ",
+        "File Path": "C:\\Users\\micha\\OneDrive\\Desktop\\School Work\\2nd Year\\Programming\\Assignment\\as1/audio_files\\Welcome_UCC.mp3"
+    }
+]
